@@ -5,7 +5,6 @@
 **Meeting Purpose:** meeting_purpose
 
 ## Attendees
-People who attended:
 - Person A
 - Person B
 - Person C
