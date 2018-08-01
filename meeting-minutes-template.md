@@ -28,4 +28,4 @@ item | notes |
 | Y/N | item | owner | deadline |
 
 ## Next Meeting
-meeting_date, meeting_time, meeting_location 
+meeting_type, meeting_date, meeting_time, meeting_location 
