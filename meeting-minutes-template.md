@@ -2,7 +2,7 @@
 **Meeting Date/Time:** meeting_date, meeting_time  
 **Meeting Location:** meeting_location  
 **Note Taker:** note_taker  
-**Meeting Purpose:** meeting_type, meeting_purpose
+**Meeting Purpose:** meeting_purpose (meeting_type)
 
 ## Attendees
 - Person A
@@ -28,4 +28,4 @@ item | notes |
 | Y/N | item | owner | deadline |
 
 ## Next Meeting
-meeting_type, meeting_date, meeting_time, meeting_location 
+meeting_date, meeting_time, meeting_location (meeting_type)
