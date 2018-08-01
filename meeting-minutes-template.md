@@ -2,7 +2,7 @@
 **Meeting Date/Time:** meeting_date, meeting_time  
 **Meeting Location:** meeting_location  
 **Note Taker:** note_taker  
-**Meeting Purpose:** meeting_purpose
+**Meeting Purpose:** meeting_type, meeting_purpose
 
 ## Attendees
 - Person A
